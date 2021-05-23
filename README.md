@@ -171,3 +171,37 @@
   - **Intro to Seq2Seq:** https://www.youtube.com/watch?v=MqugtGD605k
   - **Text Summarization:** https://www.youtube.com/watch?v=dHHvdubDnYM
   - **Machine Translation:** https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
+## Computer Vision
+* **CV Basics**
+  - **How computer sees images:** https://towardsdatascience.com/how-does-computer-understand-images-c1566d4537bf#:~:text=A%20computer%20sees%20an%20image%20as%200s%20and%201s.,smallest%20unit%20in%20an%20image.&text=When%20we%20take%20a%20digital,a%20different%20number%20of%20channels.
+  - **Intro to OpenCV:** https://stackabuse.com/introduction-to-opencv-with-python/
+  - **Video Handling using OpenCV:** https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
+  - **Image Classification using CNN:** https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/
+  - **Image Classification using Tranfer Learning:** https://learnopencv.com/image-classification-using-transfer-learning-in-pytorch/#:~:text=We%20use%20transfer%20learning%20to,ImageNet%20with%20millions%20of%20images.
+  - **Image Augmentation using Albumentations:** https://heartbeat.fritz.ai/image-augmentations-with-albumentations-c1ca8fc78db7
+  - **Image Augmentation using TorchVision:** https://www.youtube.com/watch?v=Zvd276j9sZ8
+
+* **Object Detection**
+  - **RCNN, FasterRCNN:** https://towardsdatascience.com/understanding-fast-r-cnn-and-faster-r-cnn-for-object-detection-adbb55653d97
+  - **YOLOv5:** https://towardsai.net/p/computer-vision/yolo-v5%E2%80%8A-%E2%80%8Aexplained-and-demystified
+  - **SSD:** https://developers.arcgis.com/python/guide/how-ssd-works/#:~:text=Instead%20of%20using%20sliding%20window,an%20object%20within%20that%20region.
+  - **YOLOv5 on Custom Dataset:** https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208
+
+* **Image Segmentation** 
+  - **Intro:** https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
+  - **IS using Detectron2:** https://www.kaggle.com/lewisgmorris/image-segmentation-using-detectron2
+
+* **AutoEncoders**
+  - **Intro:** https://medium.com/pytorch/implementing-an-autoencoder-in-pytorch-19baa22647d1
+  - **Convolutional Autoencoders:** https://analyticsindiamag.com/how-to-implement-convolutional-autoencoder-in-pytorch-with-cuda/
+  - **Variational Autoencoders:** https://debuggercafe.com/getting-started-with-variational-autoencoder-using-pytorch/
+ 
+* **GANS**
+  - **Intro to GANS:** https://www.youtube.com/watch?v=8L11aMN5KY8
+  - **DCGANS:** https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+  - **CycleGANS:** https://analyticsindiamag.com/hand-on-implementation-of-cyclegan-image-to-image-translation-using-pytorch/
+
+* **Miscellaneous**
+  - **Capsule Networks:** https://medium.com/@RiterApp/capsule-networks-as-a-new-approach-to-image-recognition-345d4db0831
+  - **Transformer for Image Data:** https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632
