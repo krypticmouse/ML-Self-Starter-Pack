@@ -142,3 +142,32 @@
 * **Hyperparameter Tuning for NN**
   - **Ray-Tune Tutorial(PyTorch):** https://medium.com/riselab/cutting-edge-hyperparameter-tuning-with-ray-tune-be6c0447afdf
   - **KerasTuner Tutorial(Tensorflow):** https://www.tensorflow.org/tutorials/keras/keras_tuner
+
+## Natural Language Processing
+* **NLP Basics**
+  - **Text Preprocessing for NLP:** https://towardsdatascience.com/text-preprocessing-in-natural-language-processing-using-python-6113ff5decd8
+  - **Intro to Word Embeddings:** https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc
+  - **CountVectorizer:** https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e#:~:text=%23%20about%20count%20vectorization,call%20fit%20on%20the%20text
+  - **TFIDF Vectorizer:** https://medium.com/@cmukesh8688/tf-idf-vectorizer-scikit-learn-dbc0244a911a
+  - **Subword Tokenization;Byte Pair Encoding:** https://www.youtube.com/watch?v=zjaRNfvNMTs
+  - **SentencePiece Tokenizer:** https://towardsdatascience.com/sentencepiece-tokenizer-demystified-d0a3aac19b15
+
+* **Text Classification**
+  - **Basic Text Classification using TFIDF:** https://medium.com/swlh/text-classification-using-tf-idf-7404e75565b8
+  - **Text Classification using LSTM:** https://towardsdatascience.com/multiclass-text-classification-using-lstm-in-pytorch-eac56baed8df
+  - **Transformers**
+    - **Attention(Video):** https://www.youtube.com/watch?v=W2rWgXJBZhU
+    - **Transformer NN(Video):** https://www.youtube.com/watch?v=TQQlZhbC5ps
+    - **BERT(Video):** https://www.youtube.com/watch?v=xI0HHN5XKDo
+    - **Text Classification using BERT**: https://towardsdatascience.com/bert-text-classification-using-pytorch-723dfb8b6b5b
+
+* **Beyond Text Classification**
+  - **Topic Modelling:** https://monkeylearn.com/blog/introduction-to-topic-modeling/#:~:text=Topic%20modeling%20is%20an%20unsupervised,characterize%20a%20set%20of%20documents.
+  - **POS Tagging:** https://towardsdatascience.com/part-of-speech-tagging-for-beginners-3a0754b2ebba
+  - **Named Entity Recognition:** https://medium.com/cogitotech/how-does-named-entity-recognition-work-ner-methods-f23201a69648#:~:text=Depending%20on%20the%20process%20has,identifying%20and%20locating%20the%20entities.
+  - **Entity Extraction using Transformers:** https://chriskhanhtran.github.io/posts/named-entity-recognition-with-transformers/#:~:text=According%20to%20its%20definition%20on,categories%20such%20as%20person%20names%2C
+  
+* **Seq2Seq**
+  - **Intro to Seq2Seq:** https://www.youtube.com/watch?v=MqugtGD605k
+  - **Text Summarization:** https://www.youtube.com/watch?v=dHHvdubDnYM
+  - **Machine Translation:** https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
