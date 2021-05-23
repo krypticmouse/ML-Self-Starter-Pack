@@ -91,3 +91,28 @@
     - **AdaBoost:** https://www.youtube.com/watch?v=9CPsYsB4OLI&t=117s
     - **Gradient Boosting:** https://www.youtube.com/watch?v=3CC4N4z3GJc&t=132s
     - **XGBoost:** https://www.youtube.com/watch?v=OtD8wVaFm6E
+
+## Applied ML - II (Model Optimization and Evaluation)
+* **Evaluation Metrics**
+  - **Regression Metrics:** https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b
+  - **Classification Metrics:**
+    - **Metrics:** https://towardsdatascience.com/14-popular-evaluation-metrics-in-machine-learning-33d9826434e4
+    - **ROC Curve:** https://www.youtube.com/watch?v=z5qA9qZMyw0
+
+* **Cross Validation**
+  - **Statquest:** https://www.youtube.com/watch?v=TIgfjmp-4BA
+  - **Tutorial:** https://www.youtube.com/watch?v=L_dQrZZjGDg
+  
+* **Hyperparameter Tuning**
+  - **Tutorial:** https://www.youtube.com/watch?v=jY2v4q3TPbs
+  - **Article:** https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d
+  - **HyperOpt Tutorial:** https://towardsdatascience.com/automate-hyperparameter-tuning-for-your-models-71b18f819604
+  - **Optuna Tutorial:** https://analyticsindiamag.com/hands-on-python-guide-to-optuna-a-new-hyperparameter-optimization-tool/
+  - **Ray-Tune Tutorial(Come Here after doing DL):** https://medium.com/riselab/cutting-edge-hyperparameter-tuning-with-ray-tune-be6c0447afdf
+
+* **Miscellaneous**
+  - **Feature Engineering Micro Course:** https://www.kaggle.com/learn/feature-engineering
+  - **Feature Selection:** https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/
+  - **Handling Imbalanced Data:** https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
+  - **Class Weights for Imbalance:** https://www.youtube.com/watch?v=Kp31wfHpG2c&ab_channel=BhaveshBhatt
+  - **Imbalance Class Metrics:** https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
