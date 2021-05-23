@@ -116,3 +116,29 @@
   - **Handling Imbalanced Data:** https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
   - **Class Weights for Imbalance:** https://www.youtube.com/watch?v=Kp31wfHpG2c&ab_channel=BhaveshBhatt
   - **Imbalance Class Metrics:** https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
+
+## Applied ML - III (Deep Learning and Time Series)
+* **Deep Learning**
+  - **Basic Intro Playlist:** https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+  - **PyTorch**
+    - **PyTorch 101:** https://www.youtube.com/watch?v=_R-mvKBD5U8&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2
+    - **Udacity(Course PyTorch):** https://www.udacity.com/course/deep-learning-pytorch--ud188
+    - **PyTorch Tutorials**: https://pytorch.org/tutorials/
+  - **TensorFlow**
+    - **Coursera(Audit all of them):** https://www.coursera.org/specializations/deep-learning
+    - **Tensorflow Tutorials:** https://www.tensorflow.org/tutorials
+  - **TensorBoard(PyTorch):** https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+  - **PyTorch Lightning:** https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09
+
+* **Time Series Forecasting**
+  - **Handling Missing Data in Time Series:** https://www.kaggle.com/juejuewang/handle-missing-values-in-time-series-for-beginners
+  - **Data Splitting in Time Series:** https://medium.com/keita-starts-data-science/time-series-split-with-scikit-learn-74f5be38489e
+  - **Article:** https://machinelearningmastery.com/simple-time-series-forecasting-models/
+  - **TSF Algos:** https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+  - **FbProphet:** https://blog.exploratory.io/an-introduction-to-time-series-forecasting-with-prophet-package-in-exploratory-129ed0c12112
+  - **NeuralProphet:** https://towardsdatascience.com/facebooks-prophet-deep-learning-neuralprophet-76796aed1d86
+  - **LSTM for TSF:** https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/
+  
+* **Hyperparameter Tuning for NN**
+  - **Ray-Tune Tutorial(PyTorch):** https://medium.com/riselab/cutting-edge-hyperparameter-tuning-with-ray-tune-be6c0447afdf
+  - **KerasTuner Tutorial(Tensorflow):** https://www.tensorflow.org/tutorials/keras/keras_tuner
