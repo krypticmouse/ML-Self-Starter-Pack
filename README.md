@@ -36,7 +36,6 @@
   - **SQL Micro Course:** https://www.kaggle.com/learn/advanced-sql
   - **Intro to ML:** https://copyassignment.com/machine-learning-a-gentle-introduction/
 
-# ML Zero to Pro
 ## Applied ML - I (Algo Zoo)
 * **Linear Regression**
   - **Working and Intuition**
